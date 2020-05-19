@@ -1,0 +1,13 @@
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\bin\Debug\netcoreapp3.1\genericExample.exe
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\bin\Debug\netcoreapp3.1\genericExample.deps.json
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\bin\Debug\netcoreapp3.1\genericExample.runtimeconfig.json
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\bin\Debug\netcoreapp3.1\genericExample.runtimeconfig.dev.json
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\bin\Debug\netcoreapp3.1\genericExample.dll
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\bin\Debug\netcoreapp3.1\genericExample.pdb
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\obj\Debug\netcoreapp3.1\genericExample.csprojAssemblyReference.cache
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\obj\Debug\netcoreapp3.1\genericExample.csproj.CoreCompileInputs.cache
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\obj\Debug\netcoreapp3.1\genericExample.AssemblyInfoInputs.cache
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\obj\Debug\netcoreapp3.1\genericExample.AssemblyInfo.cs
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\obj\Debug\netcoreapp3.1\genericExample.dll
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\obj\Debug\netcoreapp3.1\genericExample.pdb
+C:\Users\vanke\Desktop\School Local\Spring2020\genericExample\obj\Debug\netcoreapp3.1\genericExample.genruntimeconfig.cache

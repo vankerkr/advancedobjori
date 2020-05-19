@@ -1,0 +1,7 @@
+C:\Users\vanke\source\repos\iteratorExampleAss4\iteratorExampleAss4\bin\Debug\iteratorExampleAss4.exe.config
+C:\Users\vanke\source\repos\iteratorExampleAss4\iteratorExampleAss4\bin\Debug\iteratorExampleAss4.exe
+C:\Users\vanke\source\repos\iteratorExampleAss4\iteratorExampleAss4\bin\Debug\iteratorExampleAss4.pdb
+C:\Users\vanke\source\repos\iteratorExampleAss4\iteratorExampleAss4\obj\Debug\iteratorExampleAss4.csprojAssemblyReference.cache
+C:\Users\vanke\source\repos\iteratorExampleAss4\iteratorExampleAss4\obj\Debug\iteratorExampleAss4.csproj.CoreCompileInputs.cache
+C:\Users\vanke\source\repos\iteratorExampleAss4\iteratorExampleAss4\obj\Debug\iteratorExampleAss4.exe
+C:\Users\vanke\source\repos\iteratorExampleAss4\iteratorExampleAss4\obj\Debug\iteratorExampleAss4.pdb
