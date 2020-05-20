@@ -1,0 +1,13 @@
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\obj\Debug\netcoreapp3.1\LINQExAss7.csprojAssemblyReference.cache
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\obj\Debug\netcoreapp3.1\LINQExAss7.csproj.CoreCompileInputs.cache
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\obj\Debug\netcoreapp3.1\LINQExAss7.AssemblyInfoInputs.cache
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\obj\Debug\netcoreapp3.1\LINQExAss7.AssemblyInfo.cs
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\bin\Debug\netcoreapp3.1\LINQExAss7.exe
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\bin\Debug\netcoreapp3.1\LINQExAss7.deps.json
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\bin\Debug\netcoreapp3.1\LINQExAss7.runtimeconfig.json
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\bin\Debug\netcoreapp3.1\LINQExAss7.runtimeconfig.dev.json
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\bin\Debug\netcoreapp3.1\LINQExAss7.dll
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\bin\Debug\netcoreapp3.1\LINQExAss7.pdb
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\obj\Debug\netcoreapp3.1\LINQExAss7.dll
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\obj\Debug\netcoreapp3.1\LINQExAss7.pdb
+C:\Users\vanke\Desktop\Local School\LINQExAss7\LINQExAss7\obj\Debug\netcoreapp3.1\LINQExAss7.genruntimeconfig.cache
